@@ -1,0 +1,6 @@
+{
+  "name": "Social Gathering & Revenue Platform",
+  "description": "Engage people through curated paid gatherings, supper clubs, and mastermind circles while generating platform revenue through ticket commissions, memberships, and hosting fees.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
